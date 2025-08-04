@@ -10,10 +10,17 @@ Takes as input a list of 9 or more digits. The list is converted into a 3x3 Nump
 
 ![Image of Project](images/mean-var-calc.png)
 
+### Demographic Data Analyzer
+
+Reads in a csv file of census data and uses Pandas to answer questions about the data.
+
+![Image of Project](images/demo-data-analyzer.png)
+
 ## Skills
 
 - Python
 - Numpy
+- Pandas
 
 ## Development Tools
 
