@@ -16,11 +16,19 @@ Reads in a csv file of census data and uses Pandas to answer questions about the
 
 ![Image of Project](images/demo-data-analyzer.png)
 
+### Medical Data Visualizer
+
+Reads in a csv file of medical examination data. The data is cleaned and normalized, then a categorical plot and heat map are generated to visually represent the data. Seaborn and Matplotlib are used to generate the figures.
+
+![Image of Project](images/med-data-visualizer.png)
+
 ## Skills
 
 - Python
 - Numpy
 - Pandas
+- Seaborn
+- Matplotlib
 
 ## Development Tools
 
