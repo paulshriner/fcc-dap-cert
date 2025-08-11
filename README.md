@@ -22,6 +22,12 @@ Reads in a csv file of medical examination data. The data is cleaned and normali
 
 ![Image of Project](images/med-data-visualizer.png)
 
+### Page View Time Series Visualizer
+
+Reads in a csv file of page view data for the freeCodeCamp website. The data is cleaned, then a line plot, bar plot, and box plot are generated to visually represent the data. Seaborn and Matplotlib are used to generate the figures.
+
+![Image of Project](images/page-view-vis.png)
+
 ## Skills
 
 - Python
