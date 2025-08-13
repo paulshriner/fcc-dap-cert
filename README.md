@@ -28,6 +28,12 @@ Reads in a csv file of page view data for the freeCodeCamp website. The data is 
 
 ![Image of Project](images/page-view-vis.png)
 
+### Sea Level Predictor
+
+Reads in a csv file of global average sea level change since 1880. The data is plotted as a scatter plot using Matplotlib. Then, two best fit lines are created using linregress from SciPy: one using all data and one that starts from the year 2000. Both lines predict the sea level change through 2050.
+
+![Image of Project](images/sea-level-predictor.png)
+
 ## Skills
 
 - Python
@@ -35,6 +41,7 @@ Reads in a csv file of page view data for the freeCodeCamp website. The data is 
 - Pandas
 - Seaborn
 - Matplotlib
+- SciPy
 
 ## Development Tools
 
