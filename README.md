@@ -2,6 +2,8 @@
 
 These are the projects I did in the completion of this certificate.
 
+[Here](https://www.freecodecamp.org/certification/fcc30aca8b2-d2c4-4009-a397-2e6d1ecbde3b/data-analysis-with-python-v7) is my certificate on freeCodeCamp.
+
 ## Projects
 
 ### Mean-Variance-Standard Deviation Calculator
